@@ -3,6 +3,11 @@
 ## 📝 Overview
 This project is a **text classification model** that detects suicidal intent in text data. It uses **NLP techniques** for preprocessing and applies multiple **machine learning models** to classify text as either **suicidal** or **non-suicidal**.
 
+## Dataset
+This project uses the dataset from Kaggle. You can download it from the following link:
+
+[Kaggle Dataset]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch))
+
 ## 📂 Project Workflow
 1. **Dataset Handling**  
    - Uses a dataset of text samples labeled as **suicidal (1)** or **non-suicidal (0)**.  
